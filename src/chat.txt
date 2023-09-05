@@ -1,0 +1,461 @@
+
+<span>prata: </span>a 
+<span>prata: </span>a 
+<span>prata: </span>a 
+<span>prata: </span>a 
+<span>prata: </span>a 
+<span>prata: </span>aaaaaaaaa 
+<span>prata: </span>asd 
+<span>prata: </span>dasdasd 
+<span>prata: </span>asd 
+<span><b>0prata: </b></span>a 
+<span><b>0prata: </b></span>aaa 
+<span><b>0prata: </b></span>aa 
+<span><b>0prata: </b></span>a 
+<span><b>0prata: </b></span>a 
+<span><b>0prata: </b></span>a 
+<span><b>null: : </b></span>prata 
+<span><b>null: : </b></span>a 
+<span><b>null: : </b></span>a a
+<span><b>null: : </b></span>a 
+<span><b>Prata: </b></span>prata 
+<span><b>Prata: </b></span>a 
+<span><b>Prata: </b></span>a a
+<span><b>Prata: </b></span> a
+<span><b>Prata: </b></span>a 
+<span><b>Prata: </b></span>a 
+<span><b>Prata: </b></span>a a
+<span><b>Prata: </b></span>a 
+<span><b>Prata: </b></span>a 
+<span style='color: ;'><b>: </b></span>aa 
+<span style='color: ;'><b>: </b></span>aa 
+<span style='color: ;'><b>: </b></span>a 
+<span style='color: ;'><b>: </b></span>a a
+<span style='color: ;'><b>: </b></span> a
+<span style='color: ;'><b>: </b></span>a 
+<span style='color: ;'><b>Prata: </b></span>a 
+<span style='color: ;'><b>Prata: </b></span>a 
+<span style='color: ;'><b>Prata: </b></span>a 
+<span style='color: ;'><b>Prata: </b></span>a 
+<span style='color: ;'><b>Prata: </b></span>b 
+<span style='color: ;'><b>Prata: </b></span>b 
+<span style='color: ;'><b>Prata: </b></span>cade 
+<span style='color: ;'><b>Prata: </b></span>o 
+<span style='color: ;'><b>Prata: </b></span>sexo 
+<span style='color: ;'><b>Prata: </b></span>??? 
+<span style='color: #3d1fd6;'><b>: </b></span>alo 
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #3d1fd6;'><b>: </b></span> a
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>aa 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>hihihiihihi 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>aa 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>aa 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>a a
+<span style='color: #3d1fd6;'><b>Prata: </b></span>aa 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>aa a
+<span style='color: #3d1fd6;'><b>Prata: </b></span> a
+<span style='color: #3d1fd6;'><b>Prata: </b></span> a
+<span style='color: #3d1fd6;'><b>Prata: </b></span>a 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>a 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>a 
+<span style='color: #3d1fd6;'><b>Prata: </b></span>a 
+<span style='color: #3d1fd6;'><b>: </b></span>aa 
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #3d1fd6;'><b>: </b></span>a 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #e95607;'><b>prata: </b></span>a 
+<span style='color: #e95607;'><b>prata: </b></span>a 
+<span style='color: #e95607;'><b>prata: </b></span>a 
+<span style='color: #e95607;'><b>prata: </b></span>a 
+<span style='color: #08c47c;'><b>prata: </b></span>a 
+<span style='color: #08c47c;'><b>prata: </b></span>a 
+<span style='color: #08c47c;'><b>prata: </b></span>a 
+<span style='color: #08c47c;'><b>prata: </b></span>a 
+<span style='color: #08c47c;'><b>prata: </b></span>a 
+<span style='color: #08c47c;'><b>prata: </b></span>a 
+<span style='color: #c408be;'><b>prata: </b></span>kjkkj 
+<span style='color: #c408be;'><b>prata: </b></span>jkjk 
+<span style='color: #c4b408;'><b>prata: </b></span>lkl 
+<span style='color: #c4b408;'><b>prata: </b></span>njnjnj 
+<span style='color: #000000;'><b>prata: </b></span>a 
+<span style='color: #000000;'><b>prata: </b></span>a 
+<span style='color: #000000;'><b>prata: </b></span>a 
+<span style='color: #000000;'><b>prata: </b></span>mirto 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>asdasd 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>asdasd 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>aaa 
+<span style='color: #000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>aaa 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>aaa 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>a 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>asdasdad 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>asdsad 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>asdasdasdsa 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>ddd 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>ddd 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>d 
+<span style='color: #000000;'><b>COLOCA UM NOME SEU ANIMAL: </b></span>aaaaaa 
+<span style='color: #000000;'><b>Prata: </b></span>aaaaaa 
+<span style='color: #000000;'><b>Prata: </b></span>aaaa 
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>
+<span style='color: #000000;'><b>Prata: </b></span>aaa
+<span style='color: #000000;'><b>Prata: </b></span>aaa
+<span style='color: #000000;'><b>Prata: </b></span>aaa
+<span style='color: #000000;'><b>Prata: </b></span>aaa
+<span style='color: #000000;'><b>Prata: </b></span>aaaa
+<span style='color: #000000;'><b>aaaaaa: </b></span>alert(&quot;sexo&quot;), 
+<span style='color: #000000;'><b>aaaaaa: </b></span>alert(&quot;sexo&quot;) 
+<span style='color: #000000;'><b>aaaaaa: </b></span>alert(&quot;sexo&quot;) 
+<span style='color: #000000;'><b>aaaaaa: </b></span>alert(&quot;sexo&quot;) 
+<span style='color: #000000;'><b>aaaaaa: </b></span>alert(&quot;sexo&quot;) 
+<span style='color: #000000;'><b>teste: </b></span>aaaa 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a
+<span style='color: #000000;'><b>teste: </b></span>
+<span style='color: #000000;'><b>teste: </b></span>aaaaa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a
+<span style='color: #000000;'><b>teste: </b></span>
+<span style='color: #000000;'><b>teste: </b></span>aaaaaa 
+<span style='color: #000000;'><b>teste: </b></span>aaaa 
+<span style='color: #000000;'><b>teste: </b></span>aaaa 
+<span style='color: #000000;'><b>teste: </b></span>aaaaaaaaaaa 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #000000;'><b>teste: </b></span>aaaaaa 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A A
+<span style='color: #000000;'><b>teste: </b></span> A
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span> A
+<span style='color: #000000;'><b>teste: </b></span> A
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>A 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>aaaa 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>aaaa 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #f50000;'><b>PC: </b></span>aaaa 
+<span style='color: #000000;'><b>teste: </b></span>asdasd 
+<span style='color: #000000;'><b>teste: </b></span>aa 
+<span style='color: #f50000;'><b>PC: </b></span>aaaaa 
+<span style='color: #f50000;'><b>PC: </b></span>aaa 
+<span style='color: #000000;'><b>teste: </b></span>SEXO 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #f50000;'><b>PC: </b></span>a 
+<span style='color: #f50000;'><b>PC: </b></span>a a
+<span style='color: #f50000;'><b>PC: </b></span> a
+<span style='color: #f50000;'><b>PC: </b></span> a
+<span style='color: #000000;'><b>teste: </b></span>a 
+<span style='color: #000000;'><b>testeNome: </b></span>aaa 
+<span style='color: #000000;'><b>testeNome: </b></span>AA 
+<span style='color: #000000;'><b>testeNome: </b></span>AAA 
+<span style='color: #000000;'><b>testeNome: </b></span>AAA 
+<span style='color: #000000;'><b>testeNome: </b></span>A 
+<span style='color: #000000;'><b>testeNome: </b></span>A A
+<span style='color: #000000;'><b>testeNome: </b></span> A
+<span style='color: #000000;'><b>testeNome: </b></span>AAAA 
+<span style='color: #000000;'><b>testeNome: </b></span>AAAA 
+<span style='color: #000000;'><b>testeNome: </b></span>A 
+<span style='color: #000000;'><b>testeNome: </b></span>A 
+<span style='color: #000000;'><b>testeNome: </b></span>aaaa 
+<span style='color: #f50000;'><b>PC: </b></span>saaa 
+<span style='color: #000000;'><b>testeNome: </b></span>aaaaa 
+<span style='color: #f50000;'><b>PC: </b></span>ggg 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>aaaaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>aaa 
+<span style='color: #000000;'><b>testeNome: </b></span>aa 
+<span style='color: #000000;'><b>testeNome: </b></span>aa 
+<span style='color: #000000;'><b>testeNome: </b></span>a 
+<span style='color: #000000;'><b>testeNome: </b></span>aaaaa 
+<span style='color: #000000;'><b>testeNome: </b></span>aaa 
+<span style='color: #000000;'><b>testeNome: </b></span>aaaa 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>aaa 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>aaa 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>a 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>a 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>a 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>aaa 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>aaa 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>a a
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>a a
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>a 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>a 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>a 
+<div class='p-3 me-3 border' style='border-radius: 15px; background-color: #fbfbfb;'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>PC: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>testeNome: </b><br>aasad 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>aaa7a7 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br> a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0')>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b color='rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br> a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>aaa a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>aaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br> a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>qqqqqqqq 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>q 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>qqqqq 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>q q
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(, 0, 0)'>aaaaaaa: </b><br>q 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaaaaaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(245, 0, 0)'>PC: </b><br>
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(245, 0, 0)'>PC: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(245, 0, 0)'>PC: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(245, 0, 0)'>PC: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aa a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a a
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(57, 192, 237,.2);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.5);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.3);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.3);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.3);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.3);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(219, 0, 0, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(219, 0, 0)'>aaaaaaa: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>assdfsdsdfdf 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaaaaaaaaaaaaaaaaaaaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 42, 255, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 42, 255)'>PC: </b><br>bbbbbbbbbb 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>aaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>aa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>aaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>aaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>: </b><br>a 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaaaaaaaaaaaaaaaaaaaaaa 
+<div class='p-3 ms-3' style='border-radius: 15px; background-color: rgba(0, 255, 30, 0.1);'><p class='small mb-0'><div id='chat-wrap'><b style='color: rgb(0, 255, 30)'>Notebook: </b><br>aaa 
