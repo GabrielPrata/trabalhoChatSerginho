@@ -123,18 +123,14 @@ if (!isset($validado) or $validado != 1) {
         </script>
     </head>
 
-    <body onload="setInterval('chat.update()', 1000)">
-
-
+    <body onload="setInterval('chat.update()', 1000)" style="background-color: #5b5b5b;">
         <div class="row d-flex justify-content-center">
             <div class="col-md-8 col-lg-6 col-xl-4">
                 <div class="card" id="chat1" style="border-radius: 15px; height: 80% !important; margin: 5% 0%;">
-                    <div class="card-header d-flex justify-content-between align-items-center p-3 bg-info text-white border-bottom-0" style="border-top-left-radius: 15px; border-top-right-radius: 15px;">
-                        <i class="fas fa-angle-left"></i>
-                        <p class="mb-0 fw-bold">Chat do Serginho inho</p>
-                        <i class="fas fa-times"></i>
+                    <div class="card-header d-flex justify-content-between align-items-center p-3 text-white border-bottom-0" style="border-top-left-radius: 15px; border-top-right-radius: 15px; background-color: #3b71ca;">
+                        <p class="mb-0 fw-bold ">Chat do Serginho inho</p>
                     </div>
-                    <div class="card-body" style="overflow-y: scroll; height: 500px;">
+                    <div class="card-body" style="overflow-y: scroll; height: 500px; background-color: #eeeeee;">
                         <div id="optCamp1" class="ocult">
                             <div id="page-wrap">
                                 <p id="name-area"></p>
@@ -151,7 +147,7 @@ if (!isset($validado) or $validado != 1) {
                         </div>
                         <form id="send-message-area">
                         <div class="form-outline">
-                            <textarea class="form-control" id="sendie" maxlength='9999' rows="4"></textarea>
+                            <textarea class="form-control" id="sendie" maxlength='9999' rows="4" style="background-color: #eeeeee;"></textarea>
                             <label class="form-label" for="textAreaExample">Solta o verbo</label>
                         </div>
                     </form>
