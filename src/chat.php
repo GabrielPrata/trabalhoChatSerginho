@@ -108,8 +108,18 @@ if (!isset($validado) or $validado != 1) {
             });
         </script>
     </head>
-
     <body onload="setInterval('chat.update()', 1000)" id="body">
+        <?php
+            include '../includes/modalEditaPerfil.php';
+        ?>
+
+        <span class="d-inline-block mb-4 me-4 position-fixed bottom-0 end-0" tabindex="0" data-mdb-toggle="tooltip" title="Editar Perfil">
+            <button type="button" class="btn btn-primary btn-lg btn-floating" style="background-color: #d81b60;" data-mdb-toggle="modal" data-mdb-target="#ModalEdita">
+                <i class="fa-solid fa-pen"></i>
+                <a data-mdb-toggle="tooltip" title="Editar Perfil"></a>
+            </button>
+        </span>
+
         <div class="row d-flex justify-content-center">
             <div class="col-md-8 col-lg-6 col-xl-4">
                 <div class="card" id="chat1" style="border-radius: 15px; height: 80% !important; margin: 5% 0%;">
@@ -122,10 +132,10 @@ if (!isset($validado) or $validado != 1) {
                                 <p id="name-area"></p>
 
                                 <!-- <div class="d-flex flex-row justify-content-start mb-4"> -->
-                                    <!-- <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava1-bg.webp" alt="avatar 1" style="width: 45px; height: 100%;"> -->
-                                    <!-- <div class="p-3 ms-3" style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);"> -->
+                                <!-- <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava1-bg.webp" alt="avatar 1" style="width: 45px; height: 100%;"> -->
+                                <!-- <div class="p-3 ms-3" style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);"> -->
 
-                                    <div id="chat-area"></div>
+                                <div id="chat-area"></div>
 
                                 <!-- </div> -->
                             </div>
