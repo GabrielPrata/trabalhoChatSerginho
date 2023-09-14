@@ -3,32 +3,17 @@ if (!isset($_SESSION)) {
     session_start();
 }
 
-$validado = $_GET['veioForm'];
+$validado = $_SESSION['validado'];
 
 if (!isset($validado) or $validado != 1) {
     echo '<script type="text/javascript">
-        alert("Bota um nome e uma cor nessa merda, filho da puta. Ta achando que essa merda aqui é bagunça é???");
+        alert("Por favor, faça login para prosseguir");
         history.back()
     </script>';
     die();
 } else {
-
-    if (!isset($_POST['txt_nome'])) {
-        $_POST['txt_nome'] = "COLOCA UM NOME SEU ANIMAL";
-    }
-
-    if (!isset($_POST['color'])) {
-        $_POST['color'] = "#000";
-    }
-
-    $nome = $_POST['txt_nome'];
-    $cor = $_POST['color'];
-
-    $_SESSION['nome'] = $nome;
-    $_SESSION['color'] = $cor;
-
-
-
+    $nome = $_SESSION['nome'];
+    $cor = $_SESSION['cor'];
 ?>
 
     <!DOCTYPE html>
@@ -39,9 +24,10 @@ if (!isset($validado) or $validado != 1) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
         <link rel="stylesheet" href="../css/mdb.min.css" />
+        <link rel="stylesheet" href="../css/style.css" />
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
         <script type="text/javascript" src="../js/chat.js"></script>
-        <title>Document</title>
+        <title>Chatzinho Foda</title>
         <script type="text/javascript">
             var name = "<?php echo $nome; ?>";
 
@@ -123,11 +109,11 @@ if (!isset($validado) or $validado != 1) {
         </script>
     </head>
 
-    <body onload="setInterval('chat.update()', 1000)" style="background-color: #5b5b5b;">
+    <body onload="setInterval('chat.update()', 1000)" id="body">
         <div class="row d-flex justify-content-center">
             <div class="col-md-8 col-lg-6 col-xl-4">
                 <div class="card" id="chat1" style="border-radius: 15px; height: 80% !important; margin: 5% 0%;">
-                    <div class="card-header d-flex justify-content-between align-items-center p-3 text-white border-bottom-0" style="border-top-left-radius: 15px; border-top-right-radius: 15px; background-color: #3b71ca;">
+                    <div class="card-header d-flex justify-content-between align-items-center p-3 text-white border-bottom-0" style="border-top-left-radius: 15px; border-top-right-radius: 15px; background-color: #d81b60;">
                         <p class="mb-0 fw-bold ">Chat do Serginho inho</p>
                     </div>
                     <div class="card-body" style="overflow-y: scroll; height: 500px; background-color: #eeeeee;">
@@ -135,28 +121,28 @@ if (!isset($validado) or $validado != 1) {
                             <div id="page-wrap">
                                 <p id="name-area"></p>
 
-                                <div class="d-flex flex-row justify-content-start mb-4">
+                                <!-- <div class="d-flex flex-row justify-content-start mb-4"> -->
                                     <!-- <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava1-bg.webp" alt="avatar 1" style="width: 45px; height: 100%;"> -->
                                     <!-- <div class="p-3 ms-3" style="border-radius: 15px; background-color: rgba(57, 192, 237,.2);"> -->
-                                        
-                                            <div id="chat-area"></div>
-                                       
-                                    </div>
-                                </div>
+
+                                    <div id="chat-area"></div>
+
+                                <!-- </div> -->
                             </div>
                         </div>
-                        <form id="send-message-area">
+                    </div>
+                    <form id="send-message-area">
                         <div class="form-outline">
                             <textarea class="form-control" id="sendie" maxlength='9999' rows="4" style="background-color: #eeeeee;"></textarea>
                             <label class="form-label" for="textAreaExample">Solta o verbo</label>
                         </div>
                     </form>
-                    </div>
-                    
-                    <!-- <button id="botaoEnvia">Enviar</button> -->
                 </div>
+
+                <!-- <button id="botaoEnvia">Enviar</button> -->
             </div>
-            <script type="text/javascript" src="../js/mdb.min.js"></script>
+        </div>
+        <script type="text/javascript" src="../js/mdb.min.js"></script>
     </body>
 
     </html>

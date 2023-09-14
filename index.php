@@ -10,20 +10,20 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
-<body>
+<body id="body">
 	<div class="container">
-		<form name="configs" class="text-center" method="post" action="src/chat.php?veioForm=1" id="formLogin">
+		<form name="configs" class="text-center" method="post" action="src/validaLogin.php" id="formLogin">
 			<h3>Chat do Serginho inho</h3>
 			<br>
 			<!-- Email input -->
 			<div class="form-outline mb-4">
-				<input type="email" id="email" class="form-control" />
+				<input type="email" id="email" required="" name="emailEmail" class="form-control" />
 				<label class="form-label" for="email">Seu E-mail</label>
 			</div>
 
 			<!-- Password input -->
 			<div class="form-outline mb-4">
-				<input type="password" id="senha" class="form-control" />
+				<input type="password" id="senha" required="" name="passSenha" class="form-control" />
 				<label class="form-label" for="senha">Senha</label>
 			</div>
 

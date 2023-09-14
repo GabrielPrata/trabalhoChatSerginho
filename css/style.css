@@ -10,6 +10,17 @@ body {
     border-radius: 25px;
 }
 
+#body {
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: table;
+    width: 100%;
+    color: white;
+    background-position: 30% 45%;
+    background-size: cover;
+}
+
 #formCadastro {
     width: 40%;
     margin: 5% 30%;
@@ -20,5 +31,23 @@ body {
 
 h3 {
     text-transform: uppercase;
-    color: #3b71ca;
+    color: #d81b60;
+}
+
+@media only screen and (max-width : 600px) {
+    #formLogin {
+        width: 90%;
+        margin: 20% 5%;
+        padding: 5%;
+        background-color: #eeeeee;
+        border-radius: 25px;
+    }
+
+    #formCadastro {
+        width: 90%;
+        margin: 20% 5%;
+        padding: 5%;
+        background-color: #eeeeee;
+        border-radius: 25px;
+    }
 }

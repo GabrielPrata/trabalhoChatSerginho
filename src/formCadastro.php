@@ -28,12 +28,12 @@
 
             <!-- Password input -->
             <div class="form-outline mb-4">
-                <input type="password" id="senha" class="form-control" name="passSenha"/>
+                <input type="password" id="senha" required="" class="form-control" name="passSenha"/>
                 <label class="form-label" for="senha">Senha:</label>
             </div>
 
             <div class="form-outline mb-4">
-                <input type="color" id="color" name="colorCor"/>
+                <input type="color" id="color" required="" name="colorCor"/>
                 <label class="form-label" for="color">Sua cor preferida:</label>
             </div>
 
