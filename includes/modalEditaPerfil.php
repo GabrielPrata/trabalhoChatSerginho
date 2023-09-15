@@ -7,8 +7,9 @@
                 <h5 class="modal-title" id="exampleModalLabel">Dados do usuário: <?php echo $_SESSION['nome']; ?></h5>
                 <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="modal-body">
-                <form method="post" name="frmEdita" action="salvaAlteracoes.php">
+            <form method="post" name="frmEdita" class="text-center" action="salvaAlteracoes.php" enctype="multipart/form-data">
+
+                <div class="modal-body">
                     <div class="form-outline mb-4">
                         <input type="text" id="name" class="form-control" name="txtNome" value="<?php echo $_SESSION['nome'] ?>" />
                         <label class="form-label" for="name">Nome:</label>
@@ -31,19 +32,33 @@
                     </div>
 
                     <div class="mb-4">
-                        <label class="form-label" for="customFile" accept="image/png, image/jpg">Foto de perfil atual</label>
-                        <img src="<?php echo $_SESSION['imagemPerfil']; ?>" class="img-thumbnail" alt="<?php echo $_SESSION['nome'] ?>" />
+                        <label class="form-label" for="customFile" accept="image/png, image/jpg">Foto de perfil atual:</label>
+                        <br>
+                        <img src="<?php echo $_SESSION['imagemPerfil']; ?>" class="img-thumbnail" alt="<?php echo $_SESSION['nome'] ?>" style='width: 250px; height: 100%;' />
+                        <br>
+                        <?php
+                        if ($_SESSION['imagemPerfil'] == "../img/users/defaultUser.png") {
+                            echo '<label class="form-label text-danger" for="customFile" accept="image/png, image/jpg">Você ainda não possui uma foto de perfil!</label>';
+                        } else {
+                        ?>
+                            <div>
+                                <input class="form-check-input" type="checkbox" name="checkApagarFoto" value="true" id="flexCheckDefault" />
+                                <label class="form-check-label" for="flexCheckDefault">Apagar minha foto de perfil</label>
+                            </div>
+                        <?php
+                        }
+                        ?>
                     </div>
                     <div class="mb-4">
-                        <label class="form-label" for="customFile" accept="image/png, image/jpg">Nova foto de perfil:</label>
+                        <label class="form-label" for="fileFoto" accept="image/png, image/jpg">Nova foto de perfil:</label>
                         <input type="file" class="form-control" name="fileFoto" id="customFile" />
                     </div>
-                </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-mdb-dismiss="modal">Descartar</button>
-                <button type="button" class="btn btn-success">Salvar Alterações</button>
-            </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-mdb-dismiss="modal">Descartar</button>
+                    <input type="submit" value="Salvar Alterações" class="btn btn-success">
+                </div>
+            </form>
         </div>
     </div>
 </div>

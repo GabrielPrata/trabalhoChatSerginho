@@ -5,10 +5,10 @@ if (!isset($_SESSION)) {
 
 $validado = $_SESSION['validado'];
 
-if (!isset($validado) or $validado != 1) {
+if (!isset($validado) or $validado != true) {
     echo '<script type="text/javascript">
         alert("Por favor, faça login para prosseguir");
-        history.back()
+        window.location="../index.php";
     </script>';
     die();
 } else {
@@ -108,10 +108,20 @@ if (!isset($validado) or $validado != 1) {
             });
         </script>
     </head>
+
     <body onload="setInterval('chat.update()', 1000)" id="body">
         <?php
-            include '../includes/modalEditaPerfil.php';
+        include '../includes/modalEditaPerfil.php';
+        include '../includes/ads.php';
         ?>
+        <span class="d-inline-block mb-4 ms-4 position-fixed bottom-0 start-0" tabindex="0" data-mdb-toggle="tooltip" title="Encerrar Sessão">
+            <a href="logout.php" class="text-white">
+                <button type="button" class="btn btn-primary btn-lg btn-floating" style="background-color: #f44336;">
+                    <i class="fa-solid fa-right-from-bracket"></i>
+                    <a data-mdb-toggle="tooltip" title="Sair"></a>
+                </button>
+            </a>
+        </span>
 
         <span class="d-inline-block mb-4 me-4 position-fixed bottom-0 end-0" tabindex="0" data-mdb-toggle="tooltip" title="Editar Perfil">
             <button type="button" class="btn btn-primary btn-lg btn-floating" style="background-color: #d81b60;" data-mdb-toggle="modal" data-mdb-target="#ModalEdita">
@@ -152,6 +162,9 @@ if (!isset($validado) or $validado != 1) {
                 <!-- <button id="botaoEnvia">Enviar</button> -->
             </div>
         </div>
+        <?php
+            include '../includes/ads2.php';
+        ?>
         <script type="text/javascript" src="../js/mdb.min.js"></script>
     </body>
 

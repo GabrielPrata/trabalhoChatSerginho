@@ -11,10 +11,10 @@ body {
 }
 
 #body {
+    overflow-x: hidden !important;
     background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    display: table;
     width: 100%;
     color: white;
     background-position: 30% 45%;

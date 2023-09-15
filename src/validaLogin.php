@@ -1,5 +1,6 @@
 <?php
     include 'conn.php';
+    include '../includes/buscaImagemPerfil.php';
 
     $email = mysqli_real_escape_string($conn, $_POST['emailEmail']);
     $senha = mysqli_real_escape_string($conn, $_POST['passSenha']);
@@ -23,15 +24,7 @@
             $_SESSION['validado'] = true;
         }
 
-        if(file_exists('../img/users/' . $_SESSION['email'] . '.jpg')){
-            $_SESSION['imagemPerfil'] = "../img/users/" . $_SESSION['email'] . ".jpg";
-        
-        }else if(file_exists('../img/users/' . $_SESSION['email'] . '.png')){
-            $_SESSION['imagemPerfil'] = "../img/users/" . $_SESSION['email'] . ".png";
-        
-        }else {
-            $_SESSION['imagemPerfil'] = "../img/users/defaultUser.png";
-        }
+        buscaImagemPerfil();
 
         header('location: chat.php');
     }else{

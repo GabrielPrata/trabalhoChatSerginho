@@ -17,67 +17,74 @@ if ($rows < 1) {
     $sql .= " VALUES('$nome', '$email', '$senha', '$cor')";
 
     if (mysqli_query($conn, $sql)) {
-        $_UP['pasta'] = '../img/users/';
-        $_UP['tamanho'] = 1024 * 1024 * 4;
+        if ($_FILES['fileFoto']['name'] != "") {
+            $_UP['pasta'] = '../img/users/';
+            $_UP['tamanho'] = 1024 * 1024 * 4;
 
 
-        $extensao = substr($_FILES['fileFoto']['name'], -4);
-        if ($extensao != ".jpg" and $extensao != ".png") {
-            mysqli_close($conn);
-            echo " <script language=javascript>
-					window.alert('Por favor envie apenas arquivos com a extensao .PNG ou .jpg')
-					window.history.back()
+            $extensao = substr($_FILES['fileFoto']['name'], -4);
+            if ($extensao != ".jpg" and $extensao != ".png") {
+                mysqli_close($conn);
+                echo " <script language=javascript>
+					window.alert('Por favor envie apenas arquivos com a extensao .PNG ou .jpg. O restante do cadastro foi conluído com sucesso!')
+					window.close();
 				 	</script>";
-        } else if ($_UP['tamanho'] < $_FILES['fileFoto']['size']) {
-            mysqli_close($conn);
-            echo "
+            } else if ($_UP['tamanho'] < $_FILES['fileFoto']['size']) {
+                mysqli_close($conn);
+                echo "
 				<script language=javascript>
-					window.alert('O arquivo enviado é muito grande, o tamanho máximo permitido é de 4Mb.')
-					window.history.back()
+					window.alert('O arquivo enviado é muito grande, o tamanho máximo permitido é de 4Mb. O restante do cadastro foi conluído com sucesso!')
+					window.close();
 				</script>
 				";
-        } else {
-
-            if ($extensao == ".jpg") {
-                $nome_final = $email . '.jpg';
             } else {
-                $nome_final = $email . '.png';
+
+                if ($extensao == ".jpg") {
+                    $nome_final = $email . '.jpg';
+                } else {
+                    $nome_final = $email . '.png';
+                }
+
+                if (move_uploaded_file($_FILES['fileFoto']['tmp_name'], $_UP['pasta'] . $nome_final)) {
+                    $upload = true;
+                } else {
+                    $upload = false;
+                }
             }
-
-            if (move_uploaded_file($_FILES['fileFoto']['tmp_name'], $_UP['pasta'] . $nome_final)) {
-                $upload = true;
-            } else {
+            if (!isset($upload) or $upload == "") {
                 $upload = false;
             }
-        }
-        if (!isset($upload) or $upload == "") {
-            $upload = false;
-        }
-        if ($upload == false) {
+            if ($upload == false) {
+                mysqli_close($conn);
+                echo " <script language=javascript>
+                window.alert('Oops! Ocorreu um erro ao subir sua imagem. O restante do cadastro foi concluído com sucesso!');
+                window.close();
+                </script>";
+            } else {
+                mysqli_close($conn);
+                echo " <script language=javascript>
+                window.alert('Cadastro finalizado com sucesso!');
+                window.close();
+                </script>";
+            }
+        } else {
             mysqli_close($conn);
             echo " <script language=javascript>
-            window.alert('Oops! Ocorreu um erro ao subir sua imagem, tente novamente mais tarde.');
-            </script>";
-        
-        }else{
-            mysqli_close($conn);
-            echo " <script language=javascript>
-            window.alert('Cadastro finalizado com sucesso!');
-            history.back()
-            </script>";
+                window.alert('Cadastro finalizado com sucesso!');
+                window.close();
+                </script>";
         }
-        
     } else {
         mysqli_close($conn);
         echo " <script language=javascript>
         window.alert('Oops! Ocorreu um erro ao finalizar seu cadastro, tente novamente mais tarde.');
-        //history.back()
+        window.location='../index.php';
         </script>";
     }
 } else {
     mysqli_close($conn);
     echo " <script language=javascript>
         window.alert('E-mail já cadastrado no sistema!');
-        history.back()
+        window.location='../index.php';
         </script>";
 }
