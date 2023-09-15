@@ -112,7 +112,9 @@ if (!isset($validado) or $validado != true) {
     <body onload="setInterval('chat.update()', 1000)" id="body">
         <?php
         include '../includes/modalEditaPerfil.php';
-        include '../includes/ads.php';
+        if (!isset($_SESSION['ads'])) {
+            include '../includes/ads.php';
+        }
         ?>
         <span class="d-inline-block mb-4 ms-4 position-fixed bottom-0 start-0" tabindex="0" data-mdb-toggle="tooltip" title="Encerrar Sessão">
             <a href="logout.php" class="text-white">
@@ -163,7 +165,10 @@ if (!isset($validado) or $validado != true) {
             </div>
         </div>
         <?php
+        if (!isset($_SESSION['ads'])) {
             include '../includes/ads2.php';
+            $_SESSION['ads'] = true;
+        }
         ?>
         <script type="text/javascript" src="../js/mdb.min.js"></script>
     </body>
